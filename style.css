@@ -118,7 +118,7 @@
   }
   /* About section starts */
   .welcome-section{
-      background: url("https://images.pexels.com/photos/785429/pexels-photo-785429.jpeg?cs=srgb&dl=pexels-lukas-mayer-785429.jpg&fm=jpg");
+      background: url("./assets/about-background.jpg");
       height: 100vh;
       background-position: center;
       background-size: cover;
